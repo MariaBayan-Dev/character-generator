@@ -14,16 +14,22 @@ Simple character creator where you can write any name and choose the character's
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=grey)
 
 ## 📚 What I learned
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
+-  How to use `Math.random()` and `Math.floor()` to generate 
+  random values dynamically.
+- How to build and inject HTML content from JavaScript using 
+  template literals, without writing it directly in the HTML file.
+- How to validate a form with JavaScript before processing 
+  the user's input.
 
 ## 💡 Future improvements
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
+
+- Add class-based stat ranges so each class has 
+  strengths and weaknesses (e.g. mage has higher magic, 
+  knight has higher defense).
+- Save generated characters to localStorage so they 
+  persist between sessions.
+- Rebuild the project using React to practice 
+  component-based architecture.
 
 ## 🔗 Live Demo
 👉 [Character Generator](https://mariabayan-dev.github.io/character-generator/)
