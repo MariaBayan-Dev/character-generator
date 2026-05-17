@@ -3,6 +3,7 @@
 Simple character creator where you can write any name and choose the character's class from 4 classes to choose from.
 
 ## 🚀 Features
+
 - Enter the name of user choice.
 - Open the selection menu to choose from 4 assigned classes.
 - View the character with a random image and stats.
@@ -14,12 +15,15 @@ Simple character creator where you can write any name and choose the character's
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=grey)
 
 ## 📚 What I learned
--  How to use `Math.random()` and `Math.floor()` to generate 
-  random values dynamically.
-- How to build and inject HTML content from JavaScript using 
-  template literals, without writing it directly in the HTML file.
-- How to validate a form with JavaScript before processing 
-  the user's input.
+
+- How to use `Math.floor()` and `Math.random()` to generate 
+  random stats for each character.
+- How to use an object as a map to dynamically assign images 
+  based on user selection, avoiding repetitive if/else logic.
+- How to validate a form input with JavaScript and show 
+  or hide error messages dynamically.
+- How to update existing DOM elements dynamically by changing 
+  their textContent and attributes based on user input.
 
 ## 💡 Future improvements
 
