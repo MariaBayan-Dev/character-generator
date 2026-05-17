@@ -1,12 +1,11 @@
 # ⚔️ Character Generator
 
-Lorem impsum
+Simple character creator where you can write any name and choose the character's class from 4 classes to choose from.
 
 ## 🚀 Features
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
+- Enter the name of user choice.
+- Open the selection menu to choose from 4 assigned classes.
+- View the character with a random image and stats.
 
 ## 🛠️ Technologies
 
