@@ -25,7 +25,7 @@ Simple character creator where you can write any name and choose the character's
 - How to update existing DOM elements dynamically by changing 
   their textContent and attributes based on user input.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Add class-based stat ranges so each class has 
   strengths and weaknesses (e.g. mage has higher magic, 
@@ -36,6 +36,7 @@ Simple character creator where you can write any name and choose the character's
   component-based architecture.
 
 ## 🔗 Live Demo
+
 👉 [Character Generator](https://mariabayan-dev.github.io/character-generator/)
 
 ## 📸 Preview
